@@ -61,16 +61,16 @@ body {
 }
 
 .offer{
-    width: 300px;
+    width: 230px;
     max-width: 360px;
     padding: 24px;
     background:var(--color-card);
-    border: 6px solid var(--color-primary);
+    border: 2px solid red;
     
     border-radius: 30px;
 
     font-family: var(---font-gaming);
-    font-size: 19999px;
+    font-size: 36px;
 }
 .logo img {
     height: 55px;
