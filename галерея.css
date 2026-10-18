@@ -60,6 +60,18 @@ body {
     border-bottom: 2px solid #232329;
 }
 
+.offer{
+    width: 300px;
+    max-width: 360px;
+    padding: 24px;
+    background:var(--color-card);
+    border: 6px solid var(--color-primary);
+    
+    border-radius: 30px;
+
+    font-family: var(---font-gaming);
+    font-size: 19999px;
+}
 .logo img {
     height: 55px;
     width: 55px;
